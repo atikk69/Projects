@@ -1,0 +1,9 @@
+﻿  Project1.cpp
+C:\Projects\Project1\Project1\Project1.cpp(80,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Projects\Project1\Project1\Project1.cpp(94,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Projects\Project1\Project1\Project1.cpp(149,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\Project1\Project1\Project1.cpp(151,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\Project1\Project1\Project1.cpp(158,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\Project1\Project1\Project1.cpp(170,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Projects\Project1\Project1\Project1.cpp(173,17): warning C4553: '==': result of expression not used; did you intend '='?
+  Project1.vcxproj -> C:\Projects\Project1\x64\Debug\Project1.exe
